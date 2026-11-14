@@ -13,7 +13,7 @@ Vanguard Community Labs designs resilient backend infrastructure, automated pre-
 #### Verified Properties
 - **Website & Briefings:** [vanguardcommunitylabs.com](https://vanguardcommunitylabs.com)
 - **Founder & Principal Consultant:** [Ebai Boris (LinkedIn)](https://www.linkedin.com/in/ebai-boris-a8b023430?)
-- **LinkedIn Studio:** [Vanguard Community Labs](https://www.linkedin.com/company/vanguard-community-labs/)
+- **LinkedIn Studio:** [Vanguard Community Labs ](https://www.linkedin.com/company/vanguard-community-labs/)
 - **Cross-Border Initiative:** [Diaspora Market Corridor](https://www.linkedin.com/company/diaspora-market-corridor/)
 - **Executive Articles:** [Medium @borisvanguardcommunitylabs](https://medium.com/@borisvanguardcommunitylabs)
 
