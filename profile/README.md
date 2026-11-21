@@ -16,6 +16,7 @@ Vanguard Community Labs designs resilient backend infrastructure, automated pre-
 - **LinkedIn Studio:** [Vanguard Community Labs ](https://www.linkedin.com/company/vanguard-community-labs/)
 - **Cross-Border Initiative:** [Diaspora Market Corridor](https://www.linkedin.com/company/diaspora-market-corridor/)
 - **Executive Articles:** [Medium @borisvanguardcommunitylabs](https://medium.com/@borisvanguardcommunitylabs)
+- **Institutional Directory:** [Crunchbase — Ebai Boris](https://www.crunchbase.com/person/ebai-boris) | [Vanguard Community Labs](https://www.crunchbase.com/organization/vanguard-community-labs)
 
 ---
 *Consulenza strategica a Milano, Italia per architettura dei sistemi, automazione della compliance pre-esecuzione ed espansione aziendale tra Italia, Europa, UK, Nord America, Africa e i mercati GCC (Dubai e Riyadh).*
