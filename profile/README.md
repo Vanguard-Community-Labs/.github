@@ -17,6 +17,6 @@ Vanguard Community Labs designs resilient backend infrastructure, automated pre-
 - **Cross-Border Initiative:** [Diaspora Market Corridor](https://www.linkedin.com/company/diaspora-market-corridor/)
 - **Executive Articles:** [Medium @borisvanguardcommunitylabs](https://medium.com/@borisvanguardcommunitylabs)
 - **Institutional Directory:** [Crunchbase — Ebai Boris](https://www.crunchbase.com/person/ebai-boris) | [Vanguard Community Labs](https://www.crunchbase.com/organization/vanguard-community-labs)
-
+- **Pre-Execution Readiness Kit:** [Cross-Border & GCC Market-Entry Readiness Kit](https://vclabs.gumroad.com/l/gcc-readiness-kit) — 30-Point Notion Readiness Kit + 3-Tier 25%+ UBO & Banking Architecture (PNG & PDF) for UAE, Saudi Arabia, Qatar, Bahrain, Kuwait & Oman expansion.
 ---
 *Consulenza strategica a Milano, Italia per architettura dei sistemi, automazione della compliance pre-esecuzione ed espansione aziendale tra Italia, Europa, UK, Nord America, Africa e i mercati GCC (Dubai e Riyadh).*
